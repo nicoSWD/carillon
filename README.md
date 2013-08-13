@@ -23,8 +23,6 @@ To uninstall Carillon, remove the following files from your system:
 - /usr/local/bin/Carillon
 - /System/Library/LaunchDaemons/com.nicoswd.Carillon.plist
 
-Remove these manually, or by running this line in *Terminal.app*:
-`sudo rm /usr/local/bin/Carillon && rm /System/Library/LaunchDaemons/com.nicoswd.Carillon.plist`
 
 **NOTES**
 
