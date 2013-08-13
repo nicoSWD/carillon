@@ -10,6 +10,7 @@ No new icons or settings will be added. Reboot your system to enjoy.
 
 
 **DOWNLOADS**
+
 - Newest
   - [Carillon v1.0](https://nicoswd.com/public/files/carillon/Carillon-Installer-v1.0.zip) (MD5 checksum: 082c41070b01e43963e7f49058b537d2)
 - Older releases
@@ -17,6 +18,7 @@ No new icons or settings will be added. Reboot your system to enjoy.
   
 
 **UNINSTALL**
+
 To uninstall Carillon, remove the following files from your system:
 - /usr/local/bin/Carillon
 - /System/Library/LaunchDaemons/com.nicoswd.Carillon.plist
@@ -25,6 +27,7 @@ Remove these manually, or by running this line in *Terminal.app*:
 `sudo rm /usr/local/bin/Carillon && rm /System/Library/LaunchDaemons/com.nicoswd.Carillon.plist`
 
 **NOTES**
+
 To edit the Package installer, you need PackageManager, which comes in the Auxiliary Tools bundle, which you can download here:
 [PackageManager](http://adcdownload.apple.com/Developer_Tools/auxiliary_tools_for_xcode__late_july_2012/xcode44auxtools6938114a.dmg) (Developer account required)
 
@@ -35,6 +38,7 @@ To edit the Package installer, you need PackageManager, which comes in the Auxil
   
 
 **MIT/X11 LICENSE**
+
 Copyright (C) 2013 Nicolas Oelgart
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
