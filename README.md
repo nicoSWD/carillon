@@ -26,8 +26,9 @@ To uninstall Carillon, remove the following files from your system:
 
 **NOTES**
 
-To edit the Package installer, you need PackageManager, which comes in the Auxiliary Tools bundle, which you can download here:
-[PackageManager](http://adcdownload.apple.com/Developer_Tools/auxiliary_tools_for_xcode__late_july_2012/xcode44auxtools6938114a.dmg) (Developer account required)
+- To edit the Package installer, you need PackageManager, which comes in the Auxiliary Tools bundle, which you can download here: [PackageManager](http://adcdownload.apple.com/Developer_Tools/auxiliary_tools_for_xcode__late_july_2012/xcode44auxtools6938114a.dmg) (Developer account required)
+- While this should work just fine on a real Mac, I would not suggest installing it on one.
+- I'm aware that "chime" doesn't exactly classify as "carillon", but I liked the name, so deal with it. ;p
 
 
 **CHANGELOG**
