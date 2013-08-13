@@ -1,5 +1,7 @@
 ## Hackintosh Chime Boot Sound
 
+![alt tag](http://f.cl.ly/items/320r3B0g0v1L0L2j363A/Screen%20Shot%202013-08-13%20at%2010.08.37%20AM.png)
+
 *Carillon* is an open source OS X app, specifically for Hackintosh machines, that plays the classic "Chime" boot sound on startup that real Macs have.
 
 A new launch deamon will be added that triggers the sound, meaning, unlike most similar apps, this one runs much earlier during the boot process, even before the login screen appears.
