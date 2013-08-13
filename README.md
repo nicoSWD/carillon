@@ -6,7 +6,7 @@
 
 A new launch deamon will be added that triggers the sound, meaning, unlike most similar apps, this one runs much earlier during the boot process, even before the login screen appears.
 
-It has currently been tested on OS X 10.8.2, but it should work on previous versions as well. Please report any issues you may have.
+It has currently been tested on OS X 10.8.2, but it should work on previous versions as well. Please [report](https://github.com/nicoSWD/Carillon/issues/new) any issues you may have.
 
 No new icons or settings will be added. Reboot your system to enjoy.
 
