@@ -10,6 +10,8 @@ It has currently been tested on OS X 10.8.2, but it should work on previous vers
 
 No new icons or settings will be added. Reboot your system to enjoy.
 
+There's a [demo video](https://www.youtube.com/watch?v=rz4-uqiShlg) on YouTube.
+
 
 **DOWNLOADS**
 
