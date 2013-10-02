@@ -7,8 +7,35 @@
 //
 
 #import "ChimeData.h"
+#import <AppKit/AppKit.h>
+
 
 @implementation ChimeData
+
+
+- (id)init
+{
+    return self;
+}
+
+
++ (void)driverNotificationRoutine: (io_iterator_t) matchingIterator;
+{
+    NSLog(@"Callback called.");
+    
+    if (matchingIterator)
+    {
+        io_service_t device;
+        NSInteger count = 0;
+        while ((device = IOIteratorNext(matchingIterator))) count++;
+        IOObjectRelease(matchingIterator);
+        
+        if (count)
+        {
+            
+        }
+    }
+}
 
 
 + (NSData*)base64decode:(NSData*)input

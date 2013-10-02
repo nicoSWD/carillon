@@ -5,6 +5,7 @@
 *Carillon* is an open source OS X app, specifically for Hackintosh machines, that plays the classic "Chime" boot sound on startup that real Macs have.
 
 A new launch daemon will be added that triggers the sound, meaning, unlike most similar apps, this one runs much earlier during the boot process, even before the login screen appears.
+No crappy AppleScript solution that triggers when you're already on the Desktop, no outdated PrefPane
 
 It has currently been tested on OS X 10.8.2, but it should work on previous versions as well. Please [report](https://github.com/nicoSWD/Carillon/issues/new) any issues you may have.
 
