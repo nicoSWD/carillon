@@ -17,9 +17,9 @@ There's a [demo video](https://www.youtube.com/watch?v=rz4-uqiShlg) on YouTube.
 **DOWNLOADS**
 
 - Newest
-  - [Carillon v1.0](https://nicoswd.com/public/files/carillon/Carillon-Installer-v1.0.zip) (MD5 checksum: 082c41070b01e43963e7f49058b537d2)
+  - [Carillon v1.1b](https://github.com/nicoSWD/Carillon/releases/tag/v1.1b) (MD5 checksum: 86907beb4cf27f877d7078a805062011)
 - Older releases
-  - None so far
+  - [Carillon v1.0b](https://nicoswd.com/public/files/carillon/Carillon-Installer-v1.0.zip) (MD5 checksum: 082c41070b01e43963e7f49058b537d2)
   
 
 **UNINSTALL**
@@ -37,7 +37,9 @@ To uninstall Carillon, remove the following files from your system:
 
 
 **CHANGELOG**
-- v1.0
+- v1.1b
+  - Loads AppleHDA.kext before playing the sound
+- v1.0b
   - Initial release
   
 
