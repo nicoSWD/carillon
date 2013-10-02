@@ -7,7 +7,7 @@
 A new launch daemon will be added that triggers the sound, meaning, unlike most similar apps, this one runs much earlier during the boot process, even before the login screen appears.
 No crappy AppleScript solution that triggers when you're already on the Desktop, no outdated PrefPane
 
-It has currently been tested on OS X 10.8.2, but it should work on previous versions as well. Please [report](https://github.com/nicoSWD/Carillon/issues/new) any issues you may have.
+It has currently been tested on OS X 10.8.2 and 10.8.5, but it should work on previous and future versions as well. Please [report](https://github.com/nicoSWD/Carillon/issues/new) any issues you may have.
 
 No new icons or settings will be added. Reboot your system to enjoy.
 
@@ -31,6 +31,7 @@ To uninstall Carillon, remove the following files from your system:
 
 **NOTES**
 
+- This should work for everyone using USB audio adapters and/or AppleHDA.kext for the sound. If you're using another kext to get your sound working, please let me know.
 - To edit the Package installer, you need PackageManager, which comes in the Auxiliary Tools bundle, which you can download here: [PackageManager](http://adcdownload.apple.com/Developer_Tools/auxiliary_tools_for_xcode__late_july_2012/xcode44auxtools6938114a.dmg) (Developer account required)
 - While this should work just fine on a real Mac, I would not suggest installing it on one.
 - I'm aware that "chime" doesn't exactly classify as "carillon", but I liked the name, so deal with it. ;p
