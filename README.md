@@ -13,6 +13,10 @@ No new icons or settings will be added. Reboot your system to enjoy.
 
 There's a [demo video](https://www.youtube.com/watch?v=rz4-uqiShlg) on YouTube.
 
+**ALTERNAVIVE VERSION**
+I added a new release, which uses a different approach to play the audio. If you're having troubles with the old one, give it a shot.
+[Download v1.2b here](https://github.com/nicoSWD/Carillon/releases/tag/v1.2b)
+
 
 **DOWNLOADS**
 
