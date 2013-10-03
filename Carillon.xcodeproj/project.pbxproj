@@ -127,7 +127,7 @@
 		0373052C17B9FCD800EE7FA5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0460;
+				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = nicoSWD;
 			};
 			buildConfigurationList = 0373052F17B9FCD800EE7FA5 /* Build configuration list for PBXProject "Carillon" */;
@@ -164,7 +164,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
@@ -196,7 +195,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
@@ -222,7 +220,6 @@
 			buildSettings = {
 				ALTERNATE_GROUP = "$(GROUP)";
 				ALTERNATE_OWNER = "$(USER)";
-				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Carillon/Carillon-Prefix.pch";
 				INSTALL_GROUP = "$(GROUP)";
@@ -238,7 +235,6 @@
 			buildSettings = {
 				ALTERNATE_GROUP = "$(GROUP)";
 				ALTERNATE_OWNER = "$(USER)";
-				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				GCC_OPTIMIZATION_LEVEL = s;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Carillon/Carillon-Prefix.pch";
