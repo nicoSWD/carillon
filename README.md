@@ -21,11 +21,7 @@ I added a new release, which uses a different approach to play the audio. If you
 
 **DOWNLOADS**
 
-- Newest
-  - [Carillon v1.1b](https://github.com/nicoSWD/Carillon/releases/tag/v1.1b) (MD5 checksum: 86907beb4cf27f877d7078a805062011)
-- Older releases
-  - [Carillon v1.0b](https://nicoswd.com/public/files/carillon/Carillon-Installer-v1.0.zip) (MD5 checksum: 082c41070b01e43963e7f49058b537d2)
-  
+Downloads can be found in the [releases section](https://github.com/nicoSWD/Carillon/releases)
 
 **UNINSTALL**
 
