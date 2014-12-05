@@ -15,7 +15,7 @@ There's a [demo video](https://www.youtube.com/watch?v=rz4-uqiShlg) on YouTube.
 
 **UPDATE**
 
-Carillon is a featured download on [osx86.net](http://www.osx86.net/files/file/3558-carillon-startup-chime/) and has been downloaded over 850 times so far.
+Carillon is a featured download on [osx86.net](http://www.osx86.net/files/file/3558-carillon-startup-chime/) and has been downloaded over 1,832 times so far.
 
 
 **DOWNLOADS**
