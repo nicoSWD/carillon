@@ -21,11 +21,7 @@ I added a new release, which uses a different approach to play the audio. If you
 
 **DOWNLOADS**
 
-![downloads1](https://img.shields.io/github/downloads/nicoSWD/Carillon/v1.2b/total.svg)
-
-![downloads2](https://img.shields.io/github/downloads/nicoSWD/Carillon/v1.1b/total.svg)
-
-![downloads3](https://img.shields.io/github/downloads/nicoSWD/Carillon/v1.3b/total.svg)
+![downloads1](https://img.shields.io/github/downloads/nicoSWD/Carillon/total.svg)
 
 - Newest
   - [Carillon v1.1b](https://github.com/nicoSWD/Carillon/releases/tag/v1.1b) (MD5 checksum: 86907beb4cf27f877d7078a805062011)
